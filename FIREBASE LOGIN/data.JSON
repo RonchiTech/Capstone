@@ -1,0 +1,9 @@
+{
+    "user":{
+        "&uid" : {
+            "name": "Ronchi",
+            "age" : 20,
+            "message": "Pogi!   "
+        }
+    }
+}
